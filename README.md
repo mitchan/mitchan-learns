@@ -12,4 +12,4 @@ A repo where I put (almost) everything that I learn
 
 - [Svelte Fundamentals](https://frontendmasters.com/courses/svelte-v2/)
   - found in `svelte/ematchi`
-  - (https://github.com/Rich-Harris/ematchi)[https://github.com/Rich-Harris/ematchi]
+  - [https://github.com/Rich-Harris/ematchi](https://github.com/Rich-Harris/ematchi)
