@@ -22,6 +22,12 @@ A repo where I put (almost) everything that I learn
   - found in `rust/rust-1.51-workshop`
   - [https://rtfeldman-rust-workshop.netlify.app/](https://rtfeldman-rust-workshop.netlify.app/)
 
+### Storybook
+
+- [Design Systems with Storybook, v2](https://frontendmasters.com/courses/design-systems-v2/)
+  - [Repo](https://github.com/mitchan/anthology)
+  - [https://stevekinney.net/courses/storybook](https://stevekinney.net/courses/storybook)
+
 ### Svelte
 
 - [Svelte Fundamentals](https://frontendmasters.com/courses/svelte-v2/)
