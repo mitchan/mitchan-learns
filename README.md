@@ -16,6 +16,11 @@ A repo where I put (almost) everything that I learn
   - found in `elm/elm-0.19-workshop/intro`
   - [Slides](https://docs.google.com/presentation/d/1KXlrTWmUlAfrSwM_XtmwMuX3O1OjPawwe8ETR7Y57HQ/edit#slide=id.p)
 
+### Git
+
+- [Everything You'll Need to Know About Git](https://frontendmasters.com/courses/everything-git/)
+  - [https://theprimeagen.github.io/fem-git/](https://theprimeagen.github.io/fem-git/)
+
 ### Rust
 
 - [The Rust Programming Language](https://frontendmasters.com/courses/rust/)
