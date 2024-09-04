@@ -21,6 +21,11 @@ A repo where I put (almost) everything that I learn
 - [Everything You'll Need to Know About Git](https://frontendmasters.com/courses/everything-git/)
   - [https://theprimeagen.github.io/fem-git/](https://theprimeagen.github.io/fem-git/)
 
+### Php
+
+- [PHP Basics](https://frontendmasters.com/courses/php/)
+  - [Repo](https://github.com/mitchan/php-fundamentals)
+
 ### Rust
 
 - [The Rust Programming Language](https://frontendmasters.com/courses/rust/)
