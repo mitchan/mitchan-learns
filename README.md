@@ -26,6 +26,11 @@ A repo where I put (almost) everything that I learn
 - [PHP Basics](https://frontendmasters.com/courses/php/)
   - [Repo](https://github.com/mitchan/php-fundamentals)
 
+### Product Design
+
+- [The Product Design Process](https://frontendmasters.com/courses/product-design/)
+  - [Slides](https://static.frontendmasters.com/assets/courses/2024-05-29-product-design/product-design-slides.pdf)
+
 ### Rust
 
 - [The Rust Programming Language](https://frontendmasters.com/courses/rust/)
