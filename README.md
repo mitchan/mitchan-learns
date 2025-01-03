@@ -21,6 +21,11 @@ A repo where I put (almost) everything that I learn
 - [Everything You'll Need to Know About Git](https://frontendmasters.com/courses/everything-git/)
   - [https://theprimeagen.github.io/fem-git/](https://theprimeagen.github.io/fem-git/)
 
+### JS
+
+- [JavaScript Design Patterns for Web Apps](https://frontendmasters.com/courses/js-design-patterns/)
+  - [https://firtman.github.io/webapp-patterns/](https://firtman.github.io/webapp-patterns/)
+
 ### Php
 
 - [PHP Basics](https://frontendmasters.com/courses/php/)
