@@ -41,6 +41,10 @@ A repo where I put (almost) everything that I learn
 - [The Product Design Process](https://frontendmasters.com/courses/product-design/)
   - [Slides](https://static.frontendmasters.com/assets/courses/2024-05-29-product-design/product-design-slides.pdf)
 
+### Redux
+
+- [Advanced Redux with Redux Toolkit](https://frontendmasters.com/courses/advanced-redux/)
+
 ### Rust
 
 - [The Rust Programming Language](https://frontendmasters.com/courses/rust/)
